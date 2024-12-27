@@ -6,7 +6,7 @@ This project involves analyzing and visualizing a dataset containing appointment
 - **Dataset:** Focuses on appointment scheduling and patient information.
 - **Data Visualization:** Created using Power BI to present insightful and interactive dashboards.
 
-[🔗 **View the Power BI Dashboard**]([)](https://github.com/pranalpatil-pp17/Healthcare-Appointment-Analysis/edit/main/README.md#:~:text=Healthcare-,Appointment,-Dashboard.pbix)  
+[🔗 **View the Power BI Dashboard**](./Healthcare-Appointment-Dashboard.pbix)  
 
 Your feedback and suggestions are highly appreciated!
 
